@@ -5,6 +5,7 @@ const NavBar = () => {
       <div className="">About</div>
       <div className="">Contact</div>
       <div className="">Account</div>
+      <div className="">Hello</div>
     </div>
   );
 };
